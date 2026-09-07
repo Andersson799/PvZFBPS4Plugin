@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gw2_beta", "gw2_beta\gw2_beta.vcxproj", "{DD8A7423-FF7B-4922-A942-8E61FE8A81B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8A7423-FF7B-4922-A942-8E61FE8A81B8}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{DD8A7423-FF7B-4922-A942-8E61FE8A81B8}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{DD8A7423-FF7B-4922-A942-8E61FE8A81B8}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{DD8A7423-FF7B-4922-A942-8E61FE8A81B8}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A694B485-C353-4325-A702-B842B535FA7D}
+	EndGlobalSection
+EndGlobal
